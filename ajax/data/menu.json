@@ -1,0 +1,38 @@
+{
+	"data": [
+		{
+			"text" : "#{mhome}",
+			"link": "home"
+		},{
+			"text" : "#{mbio}",
+			"link":"bio"
+		},{
+			"text" : "#{mdate}",
+			"link":"date"
+		},{
+			"text" : "#{mdisco}",
+			"link":"disco"
+		},{
+			"text" : "#{mgallery}",
+			"link":"gallery"
+		},{
+			"text" : "#{mvideo}",
+			"link":"video"
+		},{
+			"text" : "#{mpress}",
+			"link":"press"
+		},{
+			"text" : "#{mcontact}",
+			"link":"contact"
+		},{
+			"text" : "#{mstore}",
+			"link":"store"
+		},{
+			"text" : "#{mplus}",
+			"link":"plus"
+		}
+	],
+	"display" : "displayHeader",	
+	"id" : "header"	
+}
+	

@@ -1,0 +1,23 @@
+{
+	"data" : 
+	[
+		{
+			"title" : "<hr><img src='images/cover_arrival.jpg' alt='cover' width='150px'/></br>The Arrival" ,
+			"content" : [
+				"<i>[Mini-Album </br> Music: Yaiba,</br> Lyrics : Yaiba,</br> Arrangement : Y.Blues]</i></br></br>",
+				"01 - Blues Savvath</br>",
+				"02 - The Thing <a href=\"#\"onclick=\"getData('TheThing')\">(lyrics)</a></br>",
+				"03 - Mind Control <a href=\"#\"onclick=\"getData('MindControl')\">(lyrics)</a></br>",
+				"04 - 45 Reasons <a href=\"#\"onclick=\"getData('45Reasons')\">(lyrics)</a></br>",
+				"05 - Prisoner <a href=\"#\"onclick=\"getData('Prisoner')\">(lyrics)</a></br>",
+				"06 - Y.Blues <a href=\"#\"onclick=\"getData('YBlues')\">(lyrics)</a></br>",
+				"07 - The Arrival <a href=\"#\"onclick=\"getData('TheArrival')\">(lyrics)</a></br>",
+				"08 - Prologue</br>"
+			],
+			"text" : "<iframe style='border: 0; width: 100%; height: 42px;' src='https://bandcamp.com/EmbeddedPlayer/album=1136833561/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/' seamless><a href='http://yblues.bandcamp.com/album/the-arrival'>The Arrival by Aurélien &quot;Yaiba&quot; Pisu, Sebastien &quot;Sereb&quot; Verdier, Marmotte</a></iframe>"
+		}
+
+	],
+	"display" : "displayRichText",
+	"id" : "discoData"
+}

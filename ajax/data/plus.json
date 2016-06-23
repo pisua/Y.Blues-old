@@ -1,0 +1,24 @@
+{
+	"data" : 
+	[
+		{
+			"title" : "#{plus1Title}" ,
+			"content" : [
+				"<a href='tech/fiche_technique_yblues.pdf' > #{download} </a>"
+			],
+			"text" : ""
+		},{
+			"title" : "#{plus2Title}" ,
+			"content" : [
+				"<a href='/logo/logo-yblues-light_bl.png'> #{lightbl}</a></br>",
+				"<a href='/logo/logo-yblues-light_white.png'> #{lightwhite}</a></br>",
+				"<a href='/logo/logo-yblues_bl.png'> #{fullbl}</a></br>",
+				"<a href='/logo/logo-yblues_white.png'> #{fullwhite}</a></br>"
+			],
+			"text" : ""
+		}
+
+	],
+	"display" : "displayRichText",
+	"id" : "plusData"
+}

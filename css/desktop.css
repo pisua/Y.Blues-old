@@ -1,0 +1,115 @@
+body {
+	color : white;
+	background-image : url("../images/body.jpg");
+	background-color:black;
+	background-position: bottom;
+	background-attachment : fixed;
+	background-repeat : no-repeat;
+}
+
+.pad {
+	padding-left: 20px;
+	padding-right : 20px;
+}
+
+.defilDate {
+	background-color : black;
+}
+
+.lyrics{
+	float:right;
+	padding-right:150px;
+	overflow:auto;
+	height:500px;
+	scrollbar-face-color: #367CD2;
+	scrollbar-shadow-color: #FFFFFF;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-3dlight-color: #FFFFFF;
+	scrollbar-darkshadow-color: #FFFFFF;
+	scrollbar-track-color: #FFFFFF;
+	scrollbar-arrow-color: #FFFFFF;
+}
+.discoData{
+	width:40%;
+	text-align:left;
+	padding-left : 150px;;
+}
+table{
+	width:60%;
+	text-align:right;
+	margin:auto;
+}
+
+.flag {
+	float : left;
+}
+.link {
+	float : right;
+}
+
+slides {
+	display: none;
+}
+
+.gallery {
+	padding-left : 50px;
+	padding-right : 50px;
+}
+
+.header {
+	text-align:center;
+	width:80%;
+	background-color : #2E2E2E;
+	margin:auto;
+	color : white;
+}
+
+.foot{
+	margin:auto;
+	text-align:center;
+	width:80%;
+	background-color: black;
+}
+	
+.banner {
+	background-image : url("../images/logo.jpg");
+	background-position : top;
+	height: 240px;
+	background-repeat : no-repeat;
+	margin: auto;
+	width:80%;
+	background-color : black;
+}
+.container{
+	width : 80%;
+	margin:auto;
+	text-align:center;
+	background-color : black;
+}
+btn {
+	padding : 2px 2px 2px 2px;
+	opacity:0.6;
+	cursor : pointer;
+	filter:alpha(opacity=60); /* For IE8 and earlier */
+}
+a.menu:link a.menu:active {
+	color : white;
+}
+
+a:link{
+	color : grey;
+	text-decoration : none;
+}
+a:active {
+	color : yellow;
+	font-weight : bold;
+	text-decoration : none;
+}
+a:hover {
+	color : red;
+	text-decoration : none;
+}
+a:visited {
+	color  : grey;
+	text-decoration : none;
+}

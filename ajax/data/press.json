@@ -1,0 +1,37 @@
+
+{
+	"data" : 
+	[{	
+
+		"title" :"#{chronique}",
+		"content" : [
+			"<a href='http://www.pavillon666.fr/chronique-metal-8530.php'>Pavillon666</a> - note : 9,5/10</br></br>",
+			"<a href='http://www.metalorgie.com/groupe/Y-Blues'>Metalorgie</a> - note : 15,5/20</br></br>",
+			"<a href='http://sons-of-metal.com/2014/10/16/y-blues-the-arrival-mini-albumep/'>Sons Of Metal</a>"
+		],
+		"text" : ""
+	},{
+
+		"title" :"#{liveReport}",
+		"content" : [
+			"07/06/2014 : <a href='http://sons-of-metal.com/2014/06/17/teilia-open-air-festival-les-7-et-8-juin-2014-a-le-teil-ardeche/'>Teilia Fest Open Air : Parabellum, Tagada Jones, In Arkadia, Doberman Crew, Dark Quarterer, JC.JESS, Y.Blues</a></br>",
+			"21/03/2014 : <a href='http://lewebzinedeti-rickou.com/back-roads-y-blues-live-report-au-jack-jack-de-bron-21-mars-2014/'>Back Roads, Y.Blues</a></br>",
+			"10/01/2014 : <a href='http://www.soilchronicles.fr/photographies/y-blues-rakel-traxx-misanthrope-whisky-of-blood-grenoble-lamperage-10-janvier-2014'>Whisky Of Blood, Misanthrope, Rakel Traxx, Y.Blues</a></br>",
+			"16/05/2013 : <a href='http://sons-of-metal.com/2013/06/03/myrath-the-yumma-project-shinray-asylum-pyre-y-blues-le-16-mai-2013-a-lamperage-grenoble/'>Myrath, The Yumma Project, Shinray, Asylum Pyre, Y.Blues</a></br>",
+			"31/10/2015 : <a href='http://www.soilchronicles.fr/photographies/halloween-metal-fest-iv-grenoble-la-bifurk-31-octobre-2015'>Halloween Metal Fest - SoilChronicles</a></br>",
+			"31/10/2015 : <a href='http://www.dona2b.fr/chronique_de_concert_grenoble.html'>Halloween Metal Fest - Dona2b</a>"
+
+		],
+		"text" : ""
+	},{
+		"title" :"#{interview}",
+		"content" : [
+			"<a href='http://www.soilchronicles.fr/interviews/y-blues'>Soil Chronicles</a></br>",
+			"<a href='http://www.dona2b.fr/y_blues.html'>dona2b</a></br>",
+			"<a href='http://yblues.com/interviews/20150512-LaQuotidienne-radioCampus.mp3'>La Quotidienne - Radio Campus - 12/05/2015</a>"
+		],
+		"text" : ""
+	}],
+	"display" : "displayRichText",
+	"id" : "pressData"
+}

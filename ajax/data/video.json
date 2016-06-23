@@ -1,0 +1,34 @@
+{
+	"data" : 
+	[
+		{
+			"title" : "#{video1Title}" ,
+			"content" : [
+				"<iframe width='400' height='300' src='https://www.youtube.com/embed/fFMl31hB4NU' frameborder='0' allowfullscreen></iframe>",
+				"<iframe width='400' height='300' src='//www.youtube.com/embed/9BNABYtjLR4' frameborder='0' allowfullscreen></iframe>",
+				"<iframe width='480' height='300' src='//www.youtube.com/embed/JiWLMsMgKgY' frameborder='0' allowfullscreen></iframe>",
+				"<iframe width='400' height='300' src='//www.youtube.com/embed/Xfr_QkDAqQQ' frameborder='0' allowfullscreen></iframe>"
+
+			],
+			"text" : "#{video1Text} <a href='http://www.youtube.com/user/YBluesOfficial' >here</a>"
+		},{
+			"title" : "#{video2Title}" ,
+			"content" : [
+				"<iframe width='400' height='300' src='https://www.youtube.com/embed/QDig_XMT1a8' frameborder='0' allowfullscreen></iframe>",
+				"<iframe width='400' height='300' src='https://www.youtube.com/embed/3FM8urVV4WM' frameborder='0' allowfullscreen></iframe>",
+				"<iframe width='400' height='300' src='http://www.youtube.com/embed/EcMlYwyiExw' frameborder='0' allowfullscreen></iframe>",
+				"<iframe width='400' height='300' src='http://www.youtube.com/embed/XPsT4X6cVIY' frameborder='0' allowfullscreen></iframe>"
+			],
+			"text" : "#{video1Text} <a href='http://www.youtube.com/user/YBluesOfficial' >here</a>"
+		},{
+			"title" : "#{video3Title}" ,
+			"content" : [
+				"<iframe frameborder='0' allowfullscreen allowtransparency height='450' width='600' src='http://www.risques.tv/video-diffusion.php?id=275&a=0&h=450&w=600'></iframe>"
+			],
+			"text" : "#{video3Text}  <a href='http://www.risques.tv'>here</a>"
+		}
+
+	],
+	"display" : "displayRichText",
+	"id" : "videoData"
+}

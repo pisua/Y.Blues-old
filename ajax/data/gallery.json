@@ -1,0 +1,6 @@
+
+{
+	"data" : "#{gallery}",
+	"display" : "displayText",
+	"id" : "galleryData"
+}

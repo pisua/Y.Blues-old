@@ -1,0 +1,21 @@
+
+{
+	"data" : 
+	[{	
+
+		"title" :"#{contact1}",
+		"content" : ["<a href='mailto:booking@yblues.com'>booking@yblues.com</a>"],
+		"text" : ""
+	},{
+
+		"title" :"#{contact3}",
+		"content" : ["<a href='mailto:tech@yblues.com'>tech@yblues.com</a>"],
+		"text" : ""
+	},{
+		"title" :"#{contact2}",
+		"content" : ["<a href='mailto:contact@yblues.com'>contact@yblues.com</a>"],
+		"text" : ""
+	}],
+	"display" : "displayRichText",
+	"id" : "contactData"
+}
